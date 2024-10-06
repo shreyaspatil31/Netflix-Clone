@@ -63,5 +63,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### Instructions:
 1. Replace `https://github.com/yourusername/netflix-clone.git` with the actual link to your GitHub repository.
 2. Adjust any sections as needed, especially if you add JavaScript or other functionalities later.
-
-Feel free to customize the README further to fit your project’s specifics!

@@ -1,4 +1,3 @@
-```markdown
 # Netflix Clone
 
 A simple Netflix clone created with HTML and CSS to mimic the design and functionality of the popular streaming service. This project is a demonstration of front-end web development skills.
@@ -45,6 +44,13 @@ To view this project locally:
    ```
 3. Open `index.html` in your preferred web browser.
 
+![image](https://github.com/user-attachments/assets/6b6ca920-1be3-4f2c-a56d-83d18a3b30ea)
+
+![image](https://github.com/user-attachments/assets/efcd369c-c110-40fb-aabe-9471cf7218e4)
+
+![image](https://github.com/user-attachments/assets/447f67a9-c419-418f-b719-5f50d0eda25d)
+
+
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request.
@@ -57,8 +63,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - Inspired by Netflix's design and functionality.
 - Special thanks to online resources for guidance on HTML and CSS techniques.
-
-```
 
 ### Instructions:
 1. Replace `https://github.com/yourusername/netflix-clone.git` with the actual link to your GitHub repository.
